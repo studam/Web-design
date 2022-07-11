@@ -1,4 +1,4 @@
-# Web Design Homework - Web Visualization Dashboard (Latitude)
+# Web Design Challenge - Web Visualization Dashboard (Latitude)
 
 ## Background
 
@@ -20,7 +20,7 @@ Data is more powerful when we share it with others! Let's take what we've learne
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
-For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting [weather data](Resources/cities.csv).
+For this challenge we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting [weather data](Resources/cities.csv).
 
 In building this dashboard, we'll create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 
@@ -53,11 +53,6 @@ The website must, at the top of every page, have a navigation menu that:
 * Provides two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
 * Is responsive (using media queries). The nav must have similar behavior as the screenshots ["Navigation Menu" section](#navigation-menu) (notice the background color change).
 
-Finally, the website must be deployed to GitHub pages.
-
-When finished, submit to BootcampSpot the links to 1) the deployed app and 2) the GitHub repository.
-
-Ensure your repository has regular commits and a thorough README.md file
 
 ### Considerations
 
@@ -132,9 +127,6 @@ Large screen:
 Small screen:
 ![nav menu small screen](Images/nav-sm.png)
 
-## Rubric
-
-[Unit 11 Rubric - Web Design Homework - Web Visualization Dashboard](https://docs.google.com/document/d/16RJehl9qVOxdj7o7hUwvdlsoyrA_-kaoB8CGwr9LX_Y/edit?usp=sharing)
 
 - - -
 
